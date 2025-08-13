@@ -1,0 +1,17 @@
+{
+  "name": "quick-frontend-template",
+  "version": "1.0.0",
+  "description": "빠른 초기 프론트엔드 프로젝트 세팅",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gaoooon",
+  "license": "ISC",
+  "main": "./src/index.js",
+  "bin": {
+    "quick-frontend-template": "./src/index.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.7"
+  }
+}
